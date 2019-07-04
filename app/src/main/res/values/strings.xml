@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">measurementConverter</string>
+    <string name="inches">Inches</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="miles">Miles</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="conversion">Conversion</string>
+
+</resources>
